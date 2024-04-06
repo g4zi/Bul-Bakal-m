@@ -1,5 +1,6 @@
 # Bul Bakalım Matematik Oyunu\n
- https://g4zi.github.io/Bul-Bakal-m /n
+ https://g4zi.github.io/Bul-Bakal-m 
+ 
 Merhaba. Bul bakalım oyununa hoş geldiniz.
 Oyun başladığında ana menü karşınıza gelir. Ana menüde oyna, nasıl oynanır , ayarlar ve kapat butonları bulunur. 
 Nasıl oynanır kısmında oyun hakkında bilgiler yer alır.
